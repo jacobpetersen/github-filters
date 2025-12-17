@@ -17,7 +17,7 @@ A Chrome Extension that simplifies filtering GitHub Pull Request changes to show
 Since this extension is not yet on the Chrome Web Store, you can install it manually:
 
 1. **Download/Clone** this repository to your local machine.
-2. Open Google Chrome and navigate to `chrome://extensions/`.
+2. Open Google Chrome and navigate to [`chrome://extensions/`](chrome://extensions/).
 3. Enable **Developer mode** using the toggle switch in the top right corner.
 4. Click the **Load unpacked** button.
 5. Select the folder containing the extension files.

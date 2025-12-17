@@ -1,4 +1,8 @@
-# GitHub Filters
+<p align="center">
+  <img src="icon128.png" width="128" height="128" alt="GitHub Filters Icon">
+</p>
+
+<h1 align="center">GitHub Filters</h1>
 
 A Chrome Extension that simplifies filtering GitHub Pull Request changes to show only your owned files and ignore whitespace changes.
 
@@ -7,8 +11,6 @@ A Chrome Extension that simplifies filtering GitHub Pull Request changes to show
 - **Toggle Filters**: Adds or removes `owned-by[]=[username]` and `w=1` from the URL with a single click.
 - **Configurable**: Set your GitHub username once in the extension options.
 - **Easy Access**: Works directly from the extension icon when viewing a PR's "Files changed" tab.
-
-![GitHub Filters Icon](icon128.png)
 
 ## Installation
 

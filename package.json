@@ -1,0 +1,9 @@
+{
+  "name": "github-filters",
+  "version": "1.0.0",
+  "description": "Chrome extension to filter GitHub pull request changes by owner.",
+  "scripts": {
+    "lint": "echo \"No linting configured\""
+  },
+  "private": true
+}

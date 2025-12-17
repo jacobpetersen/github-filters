@@ -1,4 +1,5 @@
-const saveOptions = () => {
+const saveOptions = (e) => {
+  if (e) e.preventDefault();
   const username = document.getElementById('username').value;
   chrome.storage.sync.set(
     { githubUsername: username },
@@ -22,4 +23,4 @@ const restoreOptions = () => {
 };
 
 document.addEventListener('DOMContentLoaded', restoreOptions);
-document.getElementById('save').addEventListener('click', saveOptions);
+document.getElementById('settings-form').addEventListener('submit', saveOptions);

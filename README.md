@@ -6,7 +6,7 @@
 
 A Chrome Extension that simplifies filtering GitHub Pull Request changes to show only your owned files and ignore whitespace changes.
 
-[<p align="center"><img width="496" height="150" alt="Download on the Chrome WebStore" src="https://github.com/user-attachments/assets/02b33d63-ea38-486a-818a-5e9a96247a68" /></p>](https://chromewebstore.google.com/detail/github-filters/dfdgkgbhogmljmogcfnomeecdodejhbk)
+[Chrome WebStore](https://chromewebstore.google.com/detail/github-filters/dfdgkgbhogmljmogcfnomeecdodejhbk)
 
 
 ## Features

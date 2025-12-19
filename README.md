@@ -6,15 +6,18 @@
 
 A Chrome Extension that simplifies filtering GitHub Pull Request changes to show only your owned files and ignore whitespace changes.
 
+[<p align="center"><img width="496" height="150" alt="Download on the Chrome WebStore" src="https://github.com/user-attachments/assets/02b33d63-ea38-486a-818a-5e9a96247a68" /></p>](https://chromewebstore.google.com/detail/github-filters/dfdgkgbhogmljmogcfnomeecdodejhbk)
+
+
 ## Features
 
 - **Toggle Filters**: Adds or removes `owned-by[]=[username]` and `w=1` from the URL with a single click.
 - **Configurable**: Set your GitHub username once in the extension options.
 - **Easy Access**: Works directly from the extension icon when viewing a PR's "Files changed" tab.
 
-## Installation
+## Local Installation
 
-Since this extension is not yet on the Chrome Web Store, you can install it manually:
+You can install the extension manually by:
 
 1. **Download/Clone** this repository to your local machine.
 2. Open Google Chrome and navigate to [`chrome://extensions/`](chrome://extensions/).
